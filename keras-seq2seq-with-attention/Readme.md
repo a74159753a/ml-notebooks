@@ -9,7 +9,7 @@ The model implemented in this notebook is useful for getting started in machine 
 Also included in a separate python file is the implementation of an LSTM with attention. This can be downloaded and used with
 your own scripts.
 
-[alt text](https://github.com/neonbjb/ml-notebooks/raw/master/keras-seq2seq-with-attention/attn_plot.png "Attention Plot")
+![alt text](https://github.com/neonbjb/ml-notebooks/raw/master/keras-seq2seq-with-attention/attn_plot.png "Attention Plot")
 
 ### Prerequisites
 
