@@ -18,6 +18,8 @@ computational workload due to the high dimensionality of the input space (words 
 If you want to follow this notebook, I would recommend a newer Nvidia graphics card to perform the computational workload. Otherwise,
 you should use Google Colab.
 
+**Note - Tensorflow 1.13 and greater versions currently have problems with this code. I am working on a fix.**
+
 ## Acknowledgments
 
 * Tensorflow Seq2Seq sample/tutorial: [here](https://github.com/tensorflow/tensorflow/blob/r1.11/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
